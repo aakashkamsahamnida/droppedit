@@ -1,7 +1,11 @@
 Droppedit 🛒
+
 one search .Multiple stores.The best available price.
+
  Droppedit is a full-stack price comparison platform designed to help users discover and compare prduct across multiple online shopping platform from a single place.
+ 
  the goal od to simplify online shopping by identifying the lowest verified available offer ,tracking price changes over time ,and helping users make informed purchasing decisions.
+ 
   🚧 Project status: In development. Features and architecture will evolve as the project progresses.
 
 🎯 The Problem
